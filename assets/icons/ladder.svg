@@ -1,0 +1,11 @@
+<svg width="51" height="103" viewBox="0 0 51 103" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ladder">
+<path id="Vector" d="M5 5V97.25" stroke="#632D0C" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M46 5V97.25" stroke="#632D0C" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M5 61.375H46" stroke="#632D0C" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M5 40.875H46" stroke="#632D0C" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M5 20.375H46" stroke="#632D0C" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M5 81.875H46" stroke="#632D0C" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
+
